@@ -9,9 +9,9 @@ public class Main {
         - каждый адрес с новой строки
         - список должен быть отсортирован по алфавиту
         - email в разных регистрах считается одинаковыми
-           hello@skillbox.ru == HeLLO@SKILLbox.RU
+           hello@gmailbox.ru == HeLLO@GMAILbox.RU
         - вывод на печать должен быть в нижнем регистре
-           hello@skillbox.ru
+           hello@gmailbox.ru
         Пример вывода сообщения об ошибке при неверном формате Email:
         "Неверный формат email"
     */

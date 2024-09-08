@@ -28,11 +28,11 @@ ADD hello@skillbox.ru
 Примеры работы со списком электронных адресов (жирным шрифтом выделен ввод пользователя)
 
 **ADD mail@mail.ru**\
-**ADD hello@skillbox.ru**\
-**ADD hello@skillbox**\
-**ADD hello@skillbox.ru**\
+**ADD hello@gmailbox.ru**\
+**ADD hello@gmailbox**\
+**ADD hello@gmailbox.ru**\
 **LIST**\
-hello@skillbox.ru\
+hello@gmailbox.ru\
 mail@mail.ru
 
 Публичные методы не должны быть связаны с внутренней структурой хранения или обработкой данных в классе. 
